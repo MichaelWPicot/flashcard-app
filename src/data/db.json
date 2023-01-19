@@ -1,0 +1,65 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Evangelion Trivia",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+    },
+    {
+      "name": "Custom Deck",
+      "description": "Custom deck description detailing deck's contents.",
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Hoe many eyes does Lilith's mask have?",
+      "back": "Seven",
+      "deckId": 1
+    },
+    {
+      "id": 2,
+      "front": "Who invented the concept of AT fields?",
+      "back": "Sigmund Fried",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "What are the main antogonists of the series?",
+      "back": "Angels",
+      "deckId": 1
+    },
+    {
+      "front": "How many MAGI computers are at NERV?",
+      "back": "Three",
+      "deckId": 1,
+      "id": 4
+    },
+    {
+      "front": "Where was Adam found?",
+      "back": "Antarctica",
+      "deckId": 1,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "front": "1+1",
+      "back": "2",
+      "deckId": 2
+    },
+    {
+      "id": 7,
+      "front": "example question",
+      "back": "example answer",
+      "deckId": 2
+    },
+    {
+      "front": "a",
+      "back": "b",
+      "deckId": 2,
+      "id": 8
+    }
+  
+  ]
+}
